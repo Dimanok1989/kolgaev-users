@@ -2,7 +2,6 @@
     "name": "kolgaev/users",
     "description": "Registration and authorization for rest-api application. Roles and permissions users.",
     "license": "MIT",
-    "version": "0.1.0",
     "authors": [
         {
             "name": "Dimanok1989",
