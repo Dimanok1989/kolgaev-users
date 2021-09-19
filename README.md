@@ -1,11 +1,9 @@
 # Kolgaev Users
 ## Расширение пользователей для Laravel
 
-<p align="center">
-    [![Release Version](https://img.shields.io/github/v/release/Dimanok1989/kolgaev-users?style=flat-square)](https://github.com/Dimanok1989/kolgaev-users/releases)
-    [![Downloads GitHub](https://img.shields.io/github/downloads/Dimanok1989/kolgaev-users/total?style=flat-square)](https://github.com/Dimanok1989/kolgaev-users/archive/refs/heads/master.zip)
-    [![Downloads Packagist](https://img.shields.io/packagist/dt/kolgaev/users?style=flat-square)](https://packagist.org/packages/kolgaev/users)
-</p>
+[![Release Version](https://img.shields.io/github/v/release/Dimanok1989/kolgaev-users?style=flat-square)](https://github.com/Dimanok1989/kolgaev-users/releases)
+[![Downloads GitHub](https://img.shields.io/github/downloads/Dimanok1989/kolgaev-users/total?style=flat-square)](https://github.com/Dimanok1989/kolgaev-users/archive/refs/heads/master.zip)
+[![Downloads Packagist](https://img.shields.io/packagist/dt/kolgaev/users?style=flat-square)](https://packagist.org/packages/kolgaev/users)
 
 В данном пакете реализованы функции регистрации, авторизации и аутентификации пользователя, а также добавлены роли и разрешения пользователей
 
